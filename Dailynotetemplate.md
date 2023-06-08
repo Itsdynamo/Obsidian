@@ -52,35 +52,37 @@ I am...
 3. [ ] 📎 Task 3 (e.g., Administrative work)
 
 #### Notes
-
-[Add any additional notes or comments about your tasks or progress here]
-
+> ...
+> ...
+> ...
 
 
 #### ⏳Time Blocker
 
 ---
-8:00 -  
-8:30 -  
-9:00 - 
-9:30 - 
+7:00 -
+7:30 -
+8:00 -
+8:30 -
+9:00 -
+9:30 -
 10:00 -
-10:30  -
-11:00  -
-11:30  -
-12:00  -
-12:30  -
-13:00  -
-13:30  -
-14:00  -
-14:30  -
-15:00  -
-15:30  -
-16:00  -
-16:30  -
-17:00  -
-17:30  -
-18:00  -
+10:30 -
+11:00 -
+11:30 -
+12:00 -
+12:30 -
+13:00 -
+13:30 -
+14:00 -
+14:30 -
+15:00 -
+15:30 -
+16:00 -
+16:30 -
+17:00 -
+17:30 -
+18:00 -
 18:30 -
 
 ---
@@ -112,3 +114,16 @@ Add relevant links to thoughts, notes and more here.
 - ...
 
 ---
+
+Hey, its Dynamo here! 👋🏻
+I am the creator of this Obsidian template. Check out more Obsidian templates at [www.itsmedynamo.co.](https://itsdynamo.gumroad.com/)
+
+Join The Obsidian Club (The OC) newsletter to receive the latest Obsidian templates and freebies :)!
+
+Stay Sharp!
+
+P.S check out other templates at [itsmedynamo.co](https://itsdynamo.gumroad.com/)
+
+Or Follow us on Twitter www.twitter.com/itsmedynamo
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
