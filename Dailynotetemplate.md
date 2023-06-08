@@ -1,7 +1,7 @@
 #### 📆 Date [[{{date:MM-DD-YY}}]]
 
  🏷️ Tags: 
- #dailyjournal #6minutejournal #gratitude #affirmation #reflection
+ #dailyjournal #gratitude #affirmation #reflection #timeblocking
 
 ---
 ### 📝 My Daily Journal
