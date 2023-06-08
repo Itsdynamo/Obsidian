@@ -19,18 +19,15 @@ The Daily Note Template for Obsidian is designed to help beginners maximize prod
 
 ## Getting Started
 1. Make sure you have [Obsidian](https://obsidian.md/) installed on your computer.
-2. Download the latest release of the Daily Note Template for Obsidian from the [Releases](https://github.com/your-username/repo-name/releases) page.
+2. Download the latest release of the Daily Note Template for Obsidian from the [Releases](https://github.com/Itsdynamo/obsidian/dailynotetemplate) page.
 3. Copy the template file to your Obsidian vault's "Templates" folder or simply copy and paste the template contents into a new note.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 - The template design and concept were inspired by various productivity methodologies and personal growth practices.
 
 ## Contact
-If you have any questions or feedback, you can reach me at your@email.com.
+If you have any questions or feedback, you can reach me at itsdynamo@hotmail.com
 
