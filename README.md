@@ -1,7 +1,7 @@
-# Daily Note Template for Obsidian
+# Templates for Obsidian
 
 
-
+### #1 Daily Note Template
 ## Overview
 Supercharge Your Productivity and Personal Growth! Plan. Reflect. Grow. 🌱
 
